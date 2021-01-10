@@ -1,3 +1,14 @@
+/***
+ *
+ *
+ * Left off here: https://viewsourcecode.org/snaptoken/kilo/03.rawInputAndOutput.html#global-state
+ * (finished everything before, but haven't started this section)
+ *
+ *
+ */
+
+
+
 /*** includes ***/
 #include <ctype.h>
 #include <errno.h>
