@@ -1,7 +1,7 @@
 /***
  *
  *
- * Left off here: https://viewsourcecode.org/snaptoken/kilo/04.aTextViewer.html
+ * Left off here: https://viewsourcecode.org/snaptoken/kilo/04.aTextViewer.html#horizontal-scrolling
  * (finished everything before, but haven't started this section)
  *
  *
